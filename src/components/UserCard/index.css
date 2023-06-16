@@ -1,0 +1,20 @@
+.UserCard {
+  border: 1px solid red;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.dot {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}

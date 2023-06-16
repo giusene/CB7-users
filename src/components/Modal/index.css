@@ -1,0 +1,10 @@
+.Modal {
+  position: absolute;
+  color: #333;
+  top: 100px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 20px;
+}
